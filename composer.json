@@ -1,0 +1,12 @@
+{
+  "name": "luis/phpiggy",
+  "description": "A PHP application for tracking expenses.",
+  "type": "project",
+  "require": {},
+  "autoload": {
+    "psr-4": {
+      "Framework\\": "src/Framework",
+      "App\\": "src/App"
+    }
+  }
+}
